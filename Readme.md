@@ -66,7 +66,7 @@ Based on the pin assignments (`carpark_partition_pins.json`), the top-level modu
 
 ## 8. Author
 
-* [Your Name] - Third Year Software Engineering Student
+* [Mohammad Waliduddin] - Third Year Software Engineering Student
 
 ---
 
